@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/prachiii26/prachiii26/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Prachi Upadhyay</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
